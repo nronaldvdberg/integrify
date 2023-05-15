@@ -1,0 +1,49 @@
+1683466082566	geckodriver	INFO	Listening on 127.0.0.1:55564
+1683466245356	geckodriver	INFO	Listening on 127.0.0.1:55640
+1683466349364	geckodriver	INFO	Listening on 127.0.0.1:55686
+1683466352394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\REALRA~1\\AppData\\Local\\Temp\\rust_mozprofile3sWBX9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683466352774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683466352781	Marionette	INFO	Listening on port 55698
+Read port: 55698
+WebDriver BiDi listening on ws://127.0.0.1:55687
+1683466353001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\REALRA~1\\AppData\\Local\\Temp\\rust_mozprofile3sWBX9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55687/devtools/browser/44c67afb-f7eb-4d27-969d-b92a58a3c623
+1683466906302	Marionette	INFO	Stopped listening on port 55698
+Dynamically enable window occlusion 1
+[Parent 13224, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+A~1\\AppData\\Local\\Temp\\rust_mozprofileo2HDit"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683466399310	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683466399314	Marionette	INFO	Listening on port 55748
+Read port: 55748
+WebDriver BiDi listening on ws://127.0.0.1:55740
+1683466399504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\REALRA~1\\AppData\\Local\\Temp\\rust_mozprofileo2HDit\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55740/devtools/browser/05cf7ef9-3533-4a85-ba2a-d04f8d2c4685
+1683466910608	Marionette	INFO	Stopped listening on port 55748
+Dynamically enable window occlusion 1
+[Parent 3352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+RA~1\\AppData\\Local\\Temp\\rust_mozprofilewjJ1kx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683466689295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683466689300	Marionette	INFO	Listening on port 56044
+Read port: 56044
+WebDriver BiDi listening on ws://127.0.0.1:56036
+1683466689514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\REALRA~1\\AppData\\Local\\Temp\\rust_mozprofilewjJ1kx\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56036/devtools/browser/d05f1692-34ea-45f9-81d5-5fbb7c0dab0c
+JavaScript warning: https://static.licdn.com/sc/h/30jrn34di73jzxi1dub85zo63, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/30jrn34di73jzxi1dub85zo63, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683466916637	Marionette	INFO	Stopped listening on port 56044
+Dynamically enable window occlusion 1
