@@ -6,3 +6,5 @@
 *.png
 *.svg
 *.ico
+# ignore data folders for the projects
+**/data/
