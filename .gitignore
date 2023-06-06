@@ -8,3 +8,4 @@
 *.ico
 # ignore data folders for the projects
 **/data/
+**/tmp/
